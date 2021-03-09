@@ -5,4 +5,4 @@
 
 <div align='center'><b>Here is a mini program for discount. You can scan it by wechat for detail.</b></div>
 
-<div align='center'>![qr](./qr.jpg)</div>
+![qr](./qr.jpg)
