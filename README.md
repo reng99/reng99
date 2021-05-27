@@ -5,3 +5,8 @@
 |Mini Program for Discount|Public Account aim at Frontend|Make Friend with Me by Wechat|
 |-------------------------|------------------------------|-----------------------------|
 |<p align="center"><img src="./qr.jpg" width="258px" height="258px"/></p>|<p align="center"><img src="./public_qr.jpg" width="258px" height="258px"/></p>|<p align="center"><img src="./wechat_account.jpeg" width="258px" height="258px"/></p>|
+
+<!-- <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/reng99/count.svg" />
+</p> -->
