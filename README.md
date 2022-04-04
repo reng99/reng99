@@ -14,3 +14,5 @@
 <p align="center">More about Me: Click <a href="https://jimmyarea.com/">jimmyarea.com</a></p>
 
 ---
+
+<img src="./qr.jpg" />
