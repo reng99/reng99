@@ -15,4 +15,4 @@
 
 ---
 
-<img src="./qr.jpg" />
+<img src="./scan_search_wechat.png" />
