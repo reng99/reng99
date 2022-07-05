@@ -13,6 +13,8 @@
 
 <p align="center">More about Me: Click <a href="https://jimmyarea.com/">jimmyarea.com</a></p>
 
+<p align="center">Or <a href="https://www.buymeacoffee.com/jimmypang">Buy Me a Coffee</a></p>
+
 ---
 
 <img src="./scan_search_wechat.png" />
