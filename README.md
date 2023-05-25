@@ -11,7 +11,7 @@
   <img src="https://profile-counter.glitch.me/reng99/count.svg" />
 </p> -->
 
-<p align="center">More about Me: Click <a href="https://jimmyarea.com/">jimmyarea.com</a></p>
+<p align="center">More about Me: Click <a href="https://mp.weixin.qq.com/s/fyxGaMJmwm7Dc0nSrBiTww">More about me</a></p>
 
 <p align="center">Or <a href="https://www.buymeacoffee.com/jimmypang">Buy Me a Coffee</a></p>
 
