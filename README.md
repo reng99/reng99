@@ -11,10 +11,4 @@
   <img src="https://profile-counter.glitch.me/reng99/count.svg" />
 </p> -->
 
-<p align="center">Click <a href="https://mp.weixin.qq.com/s/fyxGaMJmwm7Dc0nSrBiTww">More about me</a></p>
-
-<p align="center">Or <a href="https://www.buymeacoffee.com/jimmypang">Buy Me a Coffee</a></p>
-
----
-
-<img src="./scan_search_wechat.png" />
+<p align="center">Click <a href="https://mp.weixin.qq.com/s/fyxGaMJmwm7Dc0nSrBiTww">More about me</a>&nbsp;Or <a href="https://www.buymeacoffee.com/jimmypang">Buy Me a Coffee</a></p>
