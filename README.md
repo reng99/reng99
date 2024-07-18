@@ -1,6 +1,6 @@
-|Blog Account|Dashboard Data|
+|Blog Account|TODO List Mini Programe with wechat|
 |----------------------------------------------------------------------|----------------------------------------------------------------------|
-| <a href="https://juejin.cn/user/1996368846261294" target="_blank"><img src="https://stats.justsong.cn/api/juejin/?id=1996368846261294&theme=dark" alt="Jimmy's juejin Stats"  /></a> | [![reng99's github stats](https://github-readme-stats.vercel.app/api?username=reng99&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) |
+| <a href="https://juejin.cn/user/1996368846261294" target="_blank"><img src="https://stats.justsong.cn/api/juejin/?id=1996368846261294&theme=dark" alt="Jimmy's juejin Stats"  /></a> | img|
 
 <!-- |Mini Program for Discount|Public Account aim at Frontend|Make Friend with Me by Wechat|
 |-------------------------|------------------------------|-----------------------------|
