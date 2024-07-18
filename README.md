@@ -1,6 +1,6 @@
 |Blog Account|TODO List Mini Programe with wechat|
 |----------------------------------------------------------------------|----------------------------------------------------------------------|
-| <a href="https://juejin.cn/user/1996368846261294" target="_blank"><img src="https://stats.justsong.cn/api/juejin/?id=1996368846261294&theme=dark" alt="Jimmy's juejin Stats"  /></a> | img|
+| <a href="https://juejin.cn/user/1996368846261294" target="_blank"><img src="https://stats.justsong.cn/api/juejin/?id=1996368846261294&theme=dark" alt="Jimmy's juejin Stats"  /></a> | <p align="center"><img src="./mini-program-code.jpg" width="258px" height="258px" /></p>|
 
 <!-- |Mini Program for Discount|Public Account aim at Frontend|Make Friend with Me by Wechat|
 |-------------------------|------------------------------|-----------------------------|
